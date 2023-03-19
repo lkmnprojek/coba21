@@ -1,6 +1,6 @@
 
 #Recode Mulu asu tinggal pake apa susahnya:v
-import os,sys,time,requests,json,re
+
 from bs4 import BeautifulSoup as parser
 from time import sleep
 from concurrent.futures import ThreadPoolExecutor
