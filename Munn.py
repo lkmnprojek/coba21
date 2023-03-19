@@ -1,22 +1,4 @@
-Skip to content
-BladeKnife
-/
-mbf
-Public
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-Security
-Insights
-mbf/fb.py
-@BladeKnife
-BladeKnife Create fb.py
- 1 contributor
-383 lines (381 sloc)  15 KB
-#Update 14/10/2020 (18:36)
+
 #Recode Mulu asu tinggal pake apa susahnya:v
 import os,sys,time,requests,json,re
 from bs4 import BeautifulSoup as parser
@@ -398,19 +380,4 @@ if __name__=="__main__":
      kuki=masuk()
      kukis={'cookie':kuki}
      menu()
-     
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-mbf/fb.py at master · BladeKnife/mbf
+    
